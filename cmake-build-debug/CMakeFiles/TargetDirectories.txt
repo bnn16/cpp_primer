@@ -1,0 +1,3 @@
+/Users/bogdann/CLionProjects/C++_Primer/cmake-build-debug/CMakeFiles/untitled.dir
+/Users/bogdann/CLionProjects/C++_Primer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/bogdann/CLionProjects/C++_Primer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
